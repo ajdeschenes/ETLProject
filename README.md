@@ -13,3 +13,7 @@ The latitude and longitude were rounded to the first decimal place and those val
 Loading
 ------
 With SQLAlchemy, we created a MySQL database and table to hold the resulting DataFrame locally. 
+
+Contributor
+------
+Amelia Deschenes, Jay Jung
